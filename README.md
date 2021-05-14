@@ -109,3 +109,22 @@ Once it is up and running get the external port by
 ```
 kubectl get pods -o wide -n jenkins
 ```
+
+<h2>Fort Forwarding</h2>
+
+```
+kubectl -n jenkins port-forward <pod_name> 8085:8085
+```
+
+<h2>Deployment of jenkins</h2>
+
+```
+kubectl create -f jenkins-deployment.yaml -n jenkins
+kubectl get deployments -n jenkins
+```
+
+<h2> Granting access to Jenkins service</h2>
+
+```
+kubectl create -f jenkins-service.yaml -n jenkins
+```

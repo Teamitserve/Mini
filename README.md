@@ -4,6 +4,7 @@ This the complete process step by step with commands and the details
 
 <h2> 1.Installing Minikube </h2>
 When you use Linux the below commands are in Binary below
+
 ```
  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
  sudo install minikube-linux-amd64 /usr/local/bin/minikube

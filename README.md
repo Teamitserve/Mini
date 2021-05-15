@@ -130,3 +130,16 @@ kubectl get deployments -n jenkins
 ```
 kubectl create -f jenkins-service.yaml -n jenkins
 ```
+
+Create Pipeline and the below is script is added to it 
+
+![WhatsApp Image 2021-05-15 at 22 03 24](https://user-images.githubusercontent.com/80702671/118371358-e5007b00-b5c9-11eb-9dc7-fd7d267a1c09.jpeg)
+
+Once it is done save the changes and Click on Build now and view the results
+
+![WhatsApp Image 2021-05-15 at 22 05 00](https://user-images.githubusercontent.com/80702671/118371364-ee89e300-b5c9-11eb-96e1-47ad28e0322d.jpeg)
+
+Successfully the Docker Image is created
+
+![WhatsApp Image 2021-05-15 at 22 05 00](https://user-images.githubusercontent.com/80702671/118371378-fe092c00-b5c9-11eb-8206-e68e2e3ed1db.jpeg)
+

@@ -137,7 +137,7 @@ Create Pipeline and the below is script is added to it
 
 Once it is done save the changes and Click on Build now and view the results
 
-![WhatsApp Image 2021-05-15 at 22 03 24](https://user-images.githubusercontent.com/80702671/118371443-517b7a00-b5ca-11eb-90d0-c3dd8f98dc0e.jpeg)
+![WhatsApp Image 2021-05-15 at 22 01 35](https://user-images.githubusercontent.com/80702671/118371463-66580d80-b5ca-11eb-8b5a-66c07a7924c2.jpeg)
 
 Successfully the Docker Image is created
 

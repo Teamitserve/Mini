@@ -66,7 +66,9 @@ helm search repo jenkinsci
 ```
 
 <h1> Steps before installing jenkins <h1>
+ 
   1.Creating presistent volume
+  
   2.Creating service account
   
   <h2>Creating presistant volume</h2>
